@@ -1,6 +1,6 @@
 # HIGH PROFILE 3D PRINTABLE CRKBD CASE
 
-![](C:\Users\adriel\Dropbox\IMG_0155.jpg)
+![](https://raw.githubusercontent.com/foochbwah/crkbd-case/master/IMG_0155.jpg)
 
 
 
